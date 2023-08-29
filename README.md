@@ -6,6 +6,6 @@ Hoje, busco atuar na área, me desenvolver como profissional, expandir minha car
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,nodejs,react,redux,ts,linux)](https://skillicons.dev)
 
-###Entre em contato comigo
+### Entre em contato comigo
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/jonasjeronimodev/)

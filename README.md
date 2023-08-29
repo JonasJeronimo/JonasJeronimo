@@ -4,7 +4,7 @@ Apaixonado pelo mundo da tecnologia desde criança, iniciei minha jornada como p
 
 Hoje, busco atuar na área, me desenvolver como profissional, expandir minha carreira e impactar pessoas por onde quer que eu passe.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,jest,nodejs,react,redux,ts,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,nodejs,react,redux,ts,linux)](https://skillicons.dev)
 
 ###Entre em contato comigo
 

@@ -2,7 +2,9 @@
 
 Apaixonado pelo mundo da tecnologia desde criança, iniciei minha jornada como programador em 2020 ao entrar na faculdade de Ciência da Computação e consumir cursos de desenvolvimento em Python, depois de algumas conversas com pessoas mais experientes na área para saber "por onde começar", fui apresentado à Trybe e lá me formei um Desenvolvedor Web Front-End com muito orgulho.
 
-Hoje, busco atuar na área, me desenvolver como profissional, expandir minha carreira e impactar pessoas por onde quer que eu passe.
+Atualmente, estou atuando como Desenvolvedor Front-End para uma empresa de energia solar, desenvolvendo um sistema de gestão robusto e de larga escala.
+
+Sempre buscando me desenvolver como profissional, expandir minha carreira e impactar pessoas por onde quer que eu passe.
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,nodejs,react,redux,ts,linux)](https://skillicons.dev)
 

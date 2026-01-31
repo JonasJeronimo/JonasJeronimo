@@ -1,13 +1,22 @@
 ### Olá, eu sou o Jonas 👋
 
-Apaixonado pelo mundo da tecnologia desde criança, iniciei minha jornada como programador em 2020 ao entrar na faculdade de Ciência da Computação e consumir cursos de desenvolvimento em Python, depois de algumas conversas com pessoas mais experientes na área para saber "por onde começar", fui apresentado à Trybe e lá me formei um Desenvolvedor Web Front-End com muito orgulho.
+Desenvolvedor Front-End com foco em aplicações web modernas e escaláveis.
 
-Atualmente, estou atuando como Desenvolvedor Front-End para uma empresa de energia solar, desenvolvendo um sistema de gestão robusto e de larga escala.
+Apaixonado por tecnologia desde criança, iniciei minha jornada como programador em 2020 ao ingressar na faculdade de Ciência da Computação. Nesse período, comecei a estudar desenvolvimento em Python e, após conversar com profissionais mais experientes da área, encontrei na **Trybe** o caminho para me especializar — onde me formei como **Desenvolvedor Web Front-End** com muito orgulho.
 
-Sempre buscando me desenvolver como profissional, expandir minha carreira e impactar pessoas por onde quer que eu passe.
+Atualmente, atuo como **Desenvolvedor Front-End em uma empresa de energia solar**, participando do desenvolvimento de um **sistema de gestão robusto e de larga escala**, lidando com regras de negócio complexas, foco em performance e experiência do usuário.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,jest,nodejs,react,redux,ts,linux)](https://skillicons.dev)
+Estou sempre buscando evoluir como profissional, expandir minha carreira e gerar impacto positivo por onde passo.
 
-### Entre em contato comigo
+---
+
+### 🛠️ Tecnologias e Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,vue,react,redux,nodejs,jest,linux)](https://skillicons.dev)
+
+---
+
+### 📫 Entre em contato comigo
 
 [<img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/>](https://www.linkedin.com/in/jonasjeronimodev/)
+[<img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/>](mailto:jonas.jeronimo@live.com)
